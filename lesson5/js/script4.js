@@ -1,3 +1,4 @@
+'use strict'
 let options={
     width:1024,
     height:1024,
